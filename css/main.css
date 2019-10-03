@@ -30,11 +30,12 @@ figure {
 figcaption {
   font-size: 0.8rem;
   font-style: italic;
+  font-weight: normal;
 }
 
 .one {
   font-size: 1.125rem;
   font-family: "PT Serif", serif;
   font-weight: bold;
-  font-style: none;
+  font-style: normal;
 }
