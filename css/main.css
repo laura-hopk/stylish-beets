@@ -8,7 +8,7 @@ h1 {
   font-size: 1.5rem;
 }
 
-nav ol li {
+nav ol li a{
   color: #8f2440;
   font-family: "PT Sans", sans-serif;
 
