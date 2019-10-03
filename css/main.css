@@ -90,8 +90,10 @@ aside ol li {
   font-size: 1.5rem;
 }
 
-.data dl li:first-child {
+aside dl dt dd:first-child {
   font-family: "PT Serif", serif;
   font-style: italic;
   font-size: 1.125rem;
 }
+
+aside dl li:
