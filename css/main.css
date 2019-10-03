@@ -108,7 +108,14 @@ aside dl dt:first-child {
   font-weight: normal;
 }
 
-data:first-child {
+dd data {
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-size: 1.125rem;
+  font-weight: normal;
+}
+
+dd data:first-child {
   font-family: "PT Serif", serif;
   font-style: italic;
   font-size: 1.125rem;
