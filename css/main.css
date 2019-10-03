@@ -95,9 +95,3 @@ aside > dl:first-child {
   font-style: italic;
   font-size: 1.125rem;
 }
-
-aside > dl > dt{
-  font-family: "PT Serif", serif;
-  font-weight: bold;
-  font-size: 1.125rem;
-}
