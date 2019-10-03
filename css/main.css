@@ -141,6 +141,7 @@ small {
 
 small a {
   color: #8f2440;
+  text-decoration: none;
 }
 
 small a:hover {
