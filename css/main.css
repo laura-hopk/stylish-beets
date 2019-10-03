@@ -40,9 +40,24 @@ figcaption {
   font-style: normal;
 }
 
+strong {
+  font-weight: bold;
+}
+
 article {
   font-size: 1.125rem;
   font-family: "PT Serif normal 400", serif;
   font-weight: normal;
   font-style: normal;
+}
+
+.two {
+  font-size: 1.5rem;
+  font-family: "PT Serif normal 400", serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+cite {
+  font-style: italic;
 }
