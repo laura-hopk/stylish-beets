@@ -23,7 +23,7 @@ nav ol li a{
 
 figure {
   text-align: center;
-  font-family: "PT Serif", serif;
+  font-family: "PT Serif regular 400 italic", serif;
   font-weight: normal;
 }
 
@@ -35,13 +35,13 @@ figcaption {
 
 .one {
   font-size: 1.125rem;
-  font-family: "PT Serif", serif;
+  font-family: "PT Serif bold 700", serif;
   font-weight: bold;
   font-style: normal;
 }
 
 article {
-  font-size: 0.8rem;
+  font-size: 1.125rem;
   font-family: "PT Serif normal 400", serif;
   font-weight: normal;
   font-style: normal;
