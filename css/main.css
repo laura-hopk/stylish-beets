@@ -131,5 +131,5 @@ dd data {
 aside ul li {
   font-family: "PT Serif", serif;
   font-size: 0.8rem;
-  list-style-type: disc;
+  list-style-type: circle;
 }
