@@ -80,6 +80,7 @@ blockquote {
 
 aside ol li {
   list-style-type: lower-greek;
+  font-family: "PT Serif", serif;
 }
 
 #nutritional-information {
