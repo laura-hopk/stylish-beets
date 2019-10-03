@@ -7,3 +7,9 @@ h1 {
   font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
 }
+
+nav ol li {
+  color: #8f2440;
+  font-family: "PT Sans", sans-serif;
+
+}
