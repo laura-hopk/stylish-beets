@@ -115,7 +115,7 @@ dd data {
   font-weight: normal;
 }
 
-dd data:first-child {
+.data {
   font-family: "PT Serif", serif;
   font-style: italic;
   font-size: 1.125rem;
