@@ -90,7 +90,7 @@ blockquote {
 aside ol li {
   list-style-type: lower-greek;
   font-family: "PT Serif", serif;
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 #nutritional-information {
@@ -103,13 +103,13 @@ aside dl dt {
   font-family: "PT Serif", serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 aside dl dt:first-child {
   font-family: "PT Serif", serif;
   font-style: italic;
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: normal;
 }
 
