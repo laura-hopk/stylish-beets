@@ -39,3 +39,10 @@ figcaption {
   font-weight: bold;
   font-style: normal;
 }
+
+article {
+  font-size: 0.8rem;
+  font-family: "PT Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+}
