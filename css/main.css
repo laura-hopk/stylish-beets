@@ -27,8 +27,7 @@ a:hover {
 }
 
 img {
-  width: 512px;
-  height: 345px;
+  width: 100%;
 }
 
 figure {
