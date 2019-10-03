@@ -23,11 +23,11 @@ nav ol li a{
 
 figure {
   text-align: center;
+  font-family: "PT Serif", serif;
+  font-weight: none;
 }
 
 figcaption {
   font-size: 1.125rem;
   font-style: italic;
-  font-family: "PT Serif", serif;
-  font-weight: none;
 }
