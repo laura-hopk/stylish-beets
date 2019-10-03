@@ -28,7 +28,7 @@ a:hover {
 
 img {
 width: 530px;
-height: 350px;
+height: 3px;
 }
 
 figure {
@@ -38,13 +38,13 @@ figure {
 }
 
 figcaption {
-  font-size: 0.8rem;
+  font-size: 1.125rem;
   font-style: italic;
   font-weight: normal;
 }
 
 .one {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-family: "PT Serif", serif;
   font-weight: bold;
   font-style: normal;
@@ -55,14 +55,14 @@ strong {
 }
 
 article {
-  font-size: 0.8rem;
+  font-size: 1.125rem;
   font-family: "PT Serif", serif;
   font-weight: normal;
   font-style: normal;
 }
 
 .two {
-  font-size: 0.8rem;
+  font-size: 1.125rem;
   font-family: "PT Serif", serif;
   font-weight: normal;
   font-style: normal;
@@ -73,13 +73,13 @@ article {
 }
 
 blockquote {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-family: "PT Serif", serif;
   font-style: italic;
 }
 
 .chris {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 #common-varieties {
@@ -91,7 +91,7 @@ blockquote {
 aside ol li {
   list-style-type: lower-greek;
   font-family: "PT Serif", serif;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
 }
 
 #nutritional-information {
@@ -104,7 +104,7 @@ aside dl dt {
   font-family: "PT Serif", serif;
   font-style:normal;
   font-weight: bold;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
 }
 
 aside dl dt:first-child {
@@ -117,14 +117,14 @@ aside dl dt:first-child {
 dd data {
   font-family: "PT Serif", serif;
   font-style: normal;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
   font-weight: normal;
 }
 
 .data {
   font-family: "PT Serif", serif;
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
   font-weight: normal;
 }
 
@@ -148,9 +148,9 @@ small {
 small a {
   color: #8f2440;
   text-decoration: none;
-  font-size: 0.8rem;
 }
 
 small a:hover {
   color:#3f1622;
+  font-size: .8rem;
 }
