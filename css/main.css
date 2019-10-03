@@ -78,6 +78,6 @@ blockquote {
   font-size: 1.5rem;
 }
 
-.common-varieties {
+aside ol li {
   list-style-type: lower-greek;
 }
