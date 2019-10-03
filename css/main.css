@@ -28,7 +28,7 @@ a:hover {
 
 img {
 width: 530px;
-height: 3px;
+height: 300px;
 }
 
 figure {
@@ -136,13 +136,13 @@ dd data {
 
 aside ul li {
   font-family: "PT Serif", serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   list-style-type: circle;
 }
 
 small {
   font-family: "PT Serif", serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 small a {
