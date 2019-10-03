@@ -103,3 +103,9 @@ aside dl dt:first-child {
   font-size: 1.125rem;
   font-weight: normal;
 }
+
+#tags {
+  color: #3f1622;
+  font-family: "PT Serif", serif;
+  font-size: 1.5rem;
+}
