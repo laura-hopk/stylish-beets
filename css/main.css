@@ -7,7 +7,6 @@ h1 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
-  font-weight: bold;
 }
 
 nav ol {
@@ -38,7 +37,7 @@ figure {
 }
 
 figcaption {
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-style: italic;
   font-weight: normal;
 }
