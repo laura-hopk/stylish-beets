@@ -81,3 +81,9 @@ blockquote {
 aside ol li {
   list-style-type: lower-greek;
 }
+
+#nutritional-information {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+}
