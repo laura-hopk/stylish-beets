@@ -71,3 +71,9 @@ blockquote {
 .chris {
   font-size: 0.8rem;
 }
+
+#common-varieties {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+}
