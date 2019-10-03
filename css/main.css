@@ -24,7 +24,7 @@ nav ol li a{
 figure {
   text-align: center;
   font-family: "PT Serif", serif;
-  font-weight: none;
+  font-weight: normal;
 }
 
 figcaption {
