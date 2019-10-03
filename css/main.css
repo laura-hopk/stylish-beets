@@ -28,6 +28,12 @@ figure {
 }
 
 figcaption {
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   font-style: italic;
+}
+
+.one {
+  font-size: 1.125rem;
+  font-family: "PT Serif", serif;
+  font-weight: bold;
 }
